@@ -40,5 +40,5 @@
 
 <section id="resume">
     <h2>Resume/CV</h2>
-    <a href="your-resume.pdf" download>Download My Resume</a>
+    <a href="2024KYOUTH_RESUME_NURUL_ATIQAH.pdf" download>Download My Resume</a>
 </section>
