@@ -37,3 +37,8 @@
         <li>Data Visualization</li>
     </ul>
 </section>
+
+<section id="resume">
+    <h2>Resume/CV</h2>
+    <a href="your-resume.pdf" download>Download My Resume</a>
+</section>
