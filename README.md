@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nurul Atiqah - Data Analyst Portfolio</title>
+    Nurul Atiqah - Data Analyst Portfolio
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
