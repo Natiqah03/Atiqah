@@ -25,3 +25,15 @@
     </div>
     <!-- Repeat for other projects -->
 </section>
+
+<section id="skills">
+    <h2>Skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>Excel</li>
+        <li>Developed and maintained</li>
+        <li>Data Analysis</li>
+        <li>Data Cleaning</li>
+        <li>Data Visualization</li>
+    </ul>
+</section>
