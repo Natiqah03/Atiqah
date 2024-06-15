@@ -48,36 +48,3 @@
     <p>Email: <a href="mailto:nurulatiqah125980@gmail.com">your.email@example.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/nurul-atiqah-703240305">linkedin.com/in/yourprofile</a></p>
 </section>
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
-    background-color: #f4f4f4;
-    color: #333;
-}
-header {
-    background: #333;
-    color: #fff;
-    padding: 1rem 0;
-    text-align: center;
-}
-h1 {
-    margin: 0;
-}
-section {
-    padding: 2rem;
-    margin: 2rem 0;
-    background: #fff;
-    border-radius: 8px;
-}
-.project {
-    margin-bottom: 1rem;
-}
-a {
-    color: #0066cc;
-    text-decoration: none;
-}
-a:hover {
-    text-decoration: underline;
-}
