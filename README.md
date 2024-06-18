@@ -46,5 +46,5 @@
 <section id="contact">
     <h2>Contact</h2>
     <p>Email: <a href="mailto:nurulatiqah125980@gmail.com">nurulatiqah125980@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/nurul-atiqah-703240305">[linkedin.com/in/yourprofile](https://www.linkedin.com/in/nurul-atiqah-703240305)</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/nurul-atiqah-703240305">https://www.linkedin.com/in/nurul-atiqah-703240305\</a></p>
 </section>
